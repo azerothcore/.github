@@ -8,7 +8,7 @@ Join our Discord Server and chat with us! [![Discord](https://img.shields.io/dis
 
  [![](https://img.shields.io/badge/Complement-AcoreCMS-blueviolet)](https://github.com/azerothcore/acore-cms) [![](https://img.shields.io/badge/Modules-Catalogue-blueviolet)](https://www.azerothcore.org/catalogue.html)
 
-[![](https://img.shields.io/badge/Documentation-Website-important)](https://www.azerothcore.org/) [![](https://img.shields.io/badge/Documentation-Wiki-important)](https://www.azerothcore.org/wiki) [![](https://img.shields.io/badge/Documentation-Doxygen-important)](https://www.azerothcore.org/pages/doxygen/index.html)
+[![](https://img.shields.io/badge/Documentation-Website-important)](https://www.azerothcore.org/) [![](https://img.shields.io/badge/Documentation-Wiki-important)](https://www.azerothcore.org/wiki) [![](https://img.shields.io/badge/Documentation-Doxygen-important)](https://www.azerothcore.org/doxygen/)
 
 [![](https://img.shields.io/badge/Documentation-Common%20Errors-important)](https://www.azerothcore.org/wiki/common-errors)
 
